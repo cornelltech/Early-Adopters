@@ -5,12 +5,12 @@ To complement students entreprenurial journey at Cornell Tech students enrolled 
 **Start date:** April 9th
 **End date:** May 8th
 
-* [Introduction: Diffusion of innovation]
-* [Unpacking Early Adopters]
-* [Customer Discovery]
-* [First Customers in Practice: Hear from Succcessful Founders]
-* [Developing Early Adopters Engagement Strategy]
-* [Setting up Pilots, Alphas, and Betas] 
-* [Legal Agreements for Early Customers]
-* [Team Presentations: Early Adopter Engagement Strategies]
-* [Final Group Assignment]
+* [Introduction: Diffusion of innovation]()
+* [Unpacking Early Adopters]()
+* [Customer Discovery]()
+* [First Customers in Practice: Hear from Succcessful Founders]()
+* [Developing Early Adopters Engagement Strategy]()
+* [Setting up Pilots, Alphas, and Betas] ()
+* [Legal Agreements for Early Customers] ()
+* [Team Presentations: Early Adopter Engagement Strategies]()
+* [Final Group Assignment] ()
