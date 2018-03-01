@@ -3,6 +3,7 @@ To complement students entreprenurial journey at Cornell Tech students enrolled 
 
 **Schedule of Sessions: Tuesdays & Thursdays, 9:30am - 10:45am**   
 **Start/End Dates:** April 10th - May 8th
+
 **Recommended reading:** Crossing the Chasm by Geoffrey Moore
 
 * [Introduction: Diffusion of innovation](https://github.com/cornelltech/Early-Adopters/wiki#april-10th-introduction-diffusion-of-innovation) (April 10th)
