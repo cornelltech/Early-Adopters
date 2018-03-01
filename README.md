@@ -3,6 +3,7 @@ To complement students entreprenurial journey at Cornell Tech students enrolled 
 
 **Schedule of Sessions: Tuesdays & Thursdays, 9:30am - 10:45am**   
 **Start date:** April 10th
+
 **End date:** May 8th
 
 * [Introduction: Diffusion of innovation]() (April 10th)
