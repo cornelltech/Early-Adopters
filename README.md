@@ -7,7 +7,7 @@ To complement students' entreprenurial journeys at Cornell Tech, students enroll
 **Recommended reading:** Crossing the Chasm by Geoffrey Moore
 
 # Classes
-* [Introduction](https://github.com/cornelltech/Early-Adopters/wiki#april-10th-introduction-diffusion-of-innovation) (April 10th)
+* [Introduction](https://github.com/cornelltech/Early-Adopters/wiki#april-10th-introduction) (April 10th)
 * [Unpacking Early Adopters](https://github.com/cornelltech/Early-Adopters/wiki#april-12th-unpacking-early-adopters) (April 12th)
 * [Developing Early Adopters Engagement Strategy](https://github.com/cornelltech/Early-Adopters/wiki#april-24th-developing-early-adopters-engagement-strategy) (April 17th)
 * [First Customers in Practice: Hear from Succcessful Founders](https://github.com/cornelltech/Early-Adopters/wiki#april-19th-first-customers-in-practice-hear-from-successful-founders) (April 19th)
