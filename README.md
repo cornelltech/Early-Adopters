@@ -16,3 +16,8 @@ To complement students' entreprenurial journeys at Cornell Tech, students enroll
 * [Legal Agreements for Early Customers](https://github.com/cornelltech/Early-Adopters/wiki#may-1st-legal-agreements-for-early-customers) (May 1st)
 * [Team Presentations: Early Adopter Engagement Strategies](https://github.com/cornelltech/Early-Adopters/wiki#may-3rd-team-presentations-early-adopter-engagement-strategies) (May 3rd)
 * [Final Group Assignment](https://github.com/cornelltech/Early-Adopters/wiki#may-8th-introduction-final-group-assignment) (May 8th)
+
+# Grading Rubric
+* **40%** Participation
+* **30%** Quizzes and Exams
+* **30** Final Presentation
