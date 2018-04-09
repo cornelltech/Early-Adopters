@@ -21,3 +21,9 @@ To complement students' entreprenurial journeys at Cornell Tech, students enroll
 * **40%** Participation
 * **30%** Quizzes and Exams
 * **30** Final Presentation
+
+# Important notes about grading
+* No cell phones or laptops (take notes in a notebook)
+* **Attendance is mandatory**. If you miss class, homework, and do not complete the make-up assignment, then both you and your team final grade will be impacted and the team will experience a full one-half letter grade drop.
+* If you intend to miss a class, then you must email your team, cc'ing Aaron and Khoa, for accountability. You do not need to share why you are missign class, just ask for the make up assignment. The make up assignment will be due one week after receiving the assignment.
+* Note, make up assignments are **more work** than the class time you missed. The work will be very comprehensive and challenging.
